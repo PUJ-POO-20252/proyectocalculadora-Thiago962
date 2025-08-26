@@ -1,0 +1,13 @@
+# Compilados y binarios
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# Carpetas de build
+build/
+cmake-build-*/
+
+# IDE (CLion)
+.idea/
